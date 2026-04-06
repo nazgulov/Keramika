@@ -22,8 +22,8 @@
   --clr-white:    #fdfaf6;
 
   /* Typography */
-  --ff-serif:  'Cormorant Garamond', Georgia, serif;
-  --ff-sans:   'Lato', system-ui, sans-serif;
+  --ff-serif:  'EB Garamond', Georgia, serif;
+  --ff-sans:   'Source Sans 3', system-ui, sans-serif;
 
   /* Spacing */
   --section-pad: clamp(4rem, 8vw, 7rem);
